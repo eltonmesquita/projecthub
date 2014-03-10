@@ -158,6 +158,10 @@ a:hover {
 	margin-left: -10px;
 }
 
+.cbp_tmtimeline li {
+	position: relative;
+}
+
 /* The date/time */
 .cbp_tmtimeline > li .cbp_tmtime {
 	display: block;
